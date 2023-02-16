@@ -1,13 +1,13 @@
 body{
-    background-color: rgb(255, 255, 224);
-    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    background-color: rgb(29, 29, 29);
+    font-family: 'Roboto Mono', monospace;
     font-size: 10pt;
-    color: rgb(0,0,0);
-    text-align: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 h1 {
-    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-family: 'Roboto Mono', monospace;
     font-size: 12pt;
     color: rgb(204,0,0);
     font-weight: bold;
@@ -22,4 +22,9 @@ h1 {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+}
+
+img {
+    width: 450px;
+    height: 400px;
 }
