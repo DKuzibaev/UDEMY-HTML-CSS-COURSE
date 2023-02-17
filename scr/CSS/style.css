@@ -6,6 +6,14 @@ body{
     text-align: center;
 }
 
+.Uppertext{
+    text-transform: uppercase;
+}
+
+.italic-text{
+    font-style: italic;
+}
+
 h1 {
     font-family: 'Roboto Mono', monospace;
     font-size: 12pt;
@@ -14,14 +22,6 @@ h1 {
     text-align: center;
     margin-top: 30;
     margin-bottom: 12;
-}
-
-#p-class {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
 }
 
 img {
